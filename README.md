@@ -10,7 +10,7 @@ Random password generator that displays characters based on user selections.
 
 # Github Links 
 - Repository: https://github.com/mxhuisken/homework_3
-- Deployed: 
+- Deployed: https://mxhuisken.github.io/homework_3/
 
 # Requirements 
 - When clicking on generate password button, user is prompted to select password criteria 
